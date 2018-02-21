@@ -1,0 +1,103 @@
+* {
+ font-family: Roboto !important;
+	background-color: 
+}
+
+body {
+  padding-top: 50px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
+.navbar {
+	font-size: 1.2em;
+}
+
+
+.testbod {
+	height: 900px;
+}
+
+
+.list{
+	list-style-type: none;
+ 	position: fixed;
+    right: 0px; 
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+/* social buttons tags */
+	.twitter {
+	    right:0;
+		float: right;
+	    background-color: #00aced;
+	   /* bottom: 0; */
+	   /* margin-bottom: 415px; */
+
+	}
+
+	.instagram {
+		right:0;
+		float: right;
+		background-color:  #D43085;		
+
+	}
+
+	.facebook {
+		right:0;
+		float: right;
+
+	   
+	}
+
+	.twitter:hover {
+	    background-color: #00aced;
+	    right: 0;
+	    padding-right: 13px;
+	    box-shadow: 4px 4px 4px  black;
+	}
+
+
+	.instagram:hover {
+	    background-color:  #D43085;
+	    right: 0;
+	    padding-right: 13px;
+	    box-shadow: 4px 4px 4px  black;
+	}
+
+	.facebook:hover {
+	    background-color: #2E8BDC;
+	    right: 0;
+	    padding-right: 13px;
+	    box-shadow: 4px 4px 4px  black;
+	}
+
+
+/*Styling for index.php*/
+
+	.part1 .carousel img {
+		width: 100%;
+		max-height: 700px;
+		
+	}
+
+
+    .part2 {
+    	height: 800px;
+    	background-color: #dddddddd;
+    }
+
+
+	.part2 .inside hr{
+		height: 1px;
+		color: #123455;
+		background-color: #123455;
+		border: none;
+		width: 75%;
+	}
+
