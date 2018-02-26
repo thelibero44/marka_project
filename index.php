@@ -39,20 +39,21 @@
 		    </div>
 		    
 		</div>
+		  <!-- Left and right controls -->
+		  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+		    <span class="glyphicon glyphicon-chevron-left"></span>
+		    <span class="sr-only">Previous</span>
+		  </a>
+		  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+		    <span class="glyphicon glyphicon-chevron-right"></span>
+		    <span class="sr-only">Next</span>
+		  </a>	
 	</div>
 
   </div>
 
-  <!-- Left and right controls -->
-  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+
+
 
 
 </div>
@@ -63,18 +64,33 @@
 <div class="part2">
 	
 	<div class="container">
-		<div class="inside" style="padding: 40px;">
+		<div class="inside" style="padding: 40px; padding-top: 60px;">
 			
-			  <div class="col-12" style="background-color: red; height: 200px;">
+			  <div class="row">
 			  	
+			  		<img class="img-responsive img-thumbnail" src="http://dummyimage.com/800x600/4d494d/686a82.gif&text=placeholder+image" alt="placeholder+image" style="float: left;" height="200px;" width="200px;">
+
+			  		<div class="writing" style="padding-left: 200px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac...</div>
+
+			  </div><br><hr><br><br>
+
+			  <div class="row">
+			 
+			  		<img class="img-responsive img-thumbnail" src="http://dummyimage.com/800x600/4d494d/686a82.gif&text=placeholder+image" alt="placeholder+image" style="float: right;" height="200px;" width="200px;">
+
+			  		<div class="writing" style="padding-right: 200px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac...</div>
+
+			  	
+			  </div><br><hr><br>	
+
+			  <div class="row">
+			  	
+			  		<img class="img-responsive img-thumbnail" src="http://dummyimage.com/800x600/4d494d/686a82.gif&text=placeholder+image" alt="placeholder+image" style="float: left;" height="200px;" width="200px;">
+
+			  		<div class="writing" style="padding-left: 200px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac...</div>
 
 			  </div><hr>
-			  <div class="col-12" style="background-color: #797979; height: 200px;">
-			  	
-			  </div><hr>
-			  <div class="col-12" style="background-color: red; height: 200px;">
-			  	
-			  </div>	
+
 
 		</div>
 	</div>
