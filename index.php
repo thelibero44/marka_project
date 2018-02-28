@@ -19,7 +19,7 @@
 			      <img src="images/1.jpg" alt="Chania">
 			      <div class="carousel-caption">
 			        <h3>Explore</h3>
-			        <p>Asbury Park is a small seaside city on the New Jersey coast. It’s known for its sandy shore and beachfront boardwalk lined with shops, arcades and cafes.</p>
+			        <p>Asbury Dog Park is a small seaside city on the New Jersey coast. It’s known for its sandy shore and beachfront boardwalk lined with shops, arcades and cafes.</p>
 			      </div>
 			    </div>
 
