@@ -27,7 +27,7 @@
 			      <img src="images/4.jpg" alt="Chicago">
 			      <div class="carousel-caption">
 			        <h3>Coney Island Beach</h3>
-			        <p>Coney Island offers an ideal summer respite from the hectic and steamy city. With nearly 3 miles of sandy beaches, Coney Island's sunny skies and rolling waves make for the perfect getaway.</p>
+			        <p>Coney Island offers an ideal summer respite from the hectic and steamy city. With nearly 3 miles of sandy beaches, Coney Island's sunny skies and rolling waves make for the perfect getaway. Coney Island is also not in New Jersey so has no weight on this project.</p>
 			      </div>
 			    </div>
 
