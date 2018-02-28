@@ -26,7 +26,7 @@
 						    <label for="emailinput">Email address:</label><br>
 
 							<div class="input-group">
-							    <input type="email" id="emailinput" class="form-control width100">
+							    <input type="email" id="emailinput" class="form-control width100" required>
 							    <span class="input-group-btn">
 							        <button class="btn btn-success">Submit</button>
 							    </span>
